@@ -1,0 +1,17 @@
+.container {
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    color: #1e201f;
+    /* border: 5px solid; */
+    justify-content: space-between;
+}
+#phoneChangerForm{
+    display: flow-root;
+    width: 400px;
+    border: 3px solid indianred;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+     
